@@ -64,6 +64,7 @@ self.addEventListener('install', function (e) {
         'https://cdn.statically.io/gh/CatCode69/mpp-main-page/main/css/about-us.css',
         'https://daniums.ir/0:/Personal/Main%20Page/images/about-us.jpg',
         'https://daniums.ir/0:/Personal/Main%20Page/images/hero-image-mobile.png',
+        'https://iili.io/QqI8aR.md.png',
       ]);
     })
   );
