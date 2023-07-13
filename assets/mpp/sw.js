@@ -65,6 +65,10 @@ self.addEventListener('install', function (e) {
         'https://daniums.ir/0:/Personal/Main%20Page/images/about-us.jpg',
         'https://daniums.ir/0:/Personal/Main%20Page/images/hero-image-mobile.png',
         'https://iili.io/QqI8aR.md.png',
+        'https://cdn.statically.io/gh/CatCode69/mpp/main/user-login-dependency/plyr.css',
+        'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css',
+        'https://cdn.statically.io/gh/CatCode69/mpp/main/user-login-dependency/styleUserPanel3.css',
+        'https://cdn.statically.io/gh/CatCode69/mpp/main/user-login-dependency/plyr.p.js',
       ]);
     })
   );
