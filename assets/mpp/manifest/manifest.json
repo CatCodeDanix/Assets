@@ -2,6 +2,7 @@
   "name": "Mary Pet Pansion",
   "short_name": "پانسیون",
   "description": "اپلیکیشن پانسیون حیوانات خانگی مریم - ویژه سگ‌های کمتر از ۸ کیلوگرم",
+  "dir": "rtl",
   "categories": ["Pet Care", "Video Streaming"],
   "theme_color": "#1abc9c",
   "background_color": "#f4fff4",
